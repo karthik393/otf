@@ -1,0 +1,42 @@
+.con{
+    background: rgba(0,0,0,0.4)url('potos/hero-i.jpg');
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main-text{
+    line-height: 2;
+}
+
+nav.scroll{
+    background-color: black;
+}
+
+nav.scroll a {
+    color: #fff;
+}
+
+nav.scroll span{
+    color: #fff;
+}
+
+nav{
+    top: 0;
+    position: fixed;
+    z-index: 10;
+}
+
+.image{
+    margin-top: 6vh;
+    border-radius: 0.378rem;
+}
+
+.fp{
+    text-decoration: underline;
+}
+
+.loc{
+    color: white;
+}
